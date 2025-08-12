@@ -1,6 +1,6 @@
 # Epi in Serenity: A Neurofeedback Meditation System
 
-This repository contains the complete Python software system developed for the Master's thesis, *"The Embodied Guide: A Comparative Study of Neurofeedback for Novice Meditators."* The software is designed to run a real-time neurofeedback experiment comparing different modalities of guidance for Focused Attention (FA) meditation.
+This repository contains the complete Python software system developed for the Master's thesis, *"No Name Yet."* The software is designed to run a real-time neurofeedback experiment comparing different modalities of guidance for Focused Attention (FA) meditation.
 
 The central inquiry of the thesis is to determine whether the physical presence of an embodied guide (a socially assistive robot) is more effective at helping a meditator regulate their brain state than a disembodied voice. 
 
