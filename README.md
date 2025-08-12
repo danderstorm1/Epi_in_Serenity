@@ -82,13 +82,14 @@ The system is composed of several interconnected Python scripts that work togeth
 Running an experiment involves two steps:
 
 1.  **Start the Muse LSL Stream:**
-    Open a terminal, navigate to the project folder, and run the streaming script, to ensure the Muse 2 is connected. (If the software happens to crash, press Control + C in its terminal to stop it, then run ./start_muse.sh again to restart it. Be sure to leave the other terminals open).
+    Open a terminal, navigate to the project folder, and run the streaming script, to ensure the Muse 2 is connected.
+    
     ```bash
     ./start_muse.sh
     ```
-    A visualization window from `muselsl` should appear, confirming the stream is active. **Leave this terminal running in the background.**
+    A visualization window from `muselsl` should appear, confirming the stream is active. **Leave this terminal running in the background.** (If the software happens to crash, press Control + C in its terminal to stop it, then run ./start_muse.sh again to restart it. Be sure to leave the other terminals open).
 
-2.  **Start the Epi or audio system:**
+3.  **Start the Epi or audio system:**
 
 Open a **second** terminal window, navigate to the project directory, and run the following script, to activate the audio or Epi commands:
 
