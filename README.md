@@ -82,7 +82,7 @@ The system is composed of several interconnected Python scripts that work togeth
 Running an experiment involves two steps:
 
 1.  **Start the Muse LSL Stream:**
-    Open a terminal, navigate to the project folder, and run the streaming script, to ensure the Muse 2 is connected.
+    Open a terminal, navigate to the project folder, and run the streaming script, to ensure the Muse 2 is connected. (If the software happens to crash, press Control + C in its terminal to stop it, then run ./start_muse.sh again to restart it. Be sure to leave the other terminals open).
     ```bash
     ./start_muse.sh
     ```
@@ -125,4 +125,4 @@ python main.py
 ---
 ## License
 
-This project is licensed under the MIT License. This means you are free to use, modify, and distribute the code, even for commercial purposes, as long as you include the original copyright and license notice in any copy of the software.
+Do not have one yet.
