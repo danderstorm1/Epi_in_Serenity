@@ -87,7 +87,7 @@ Running an experiment involves two steps:
     ```bash
     ./start_muse.sh
     ```
-    A visualization window from `muselsl` should appear, confirming the stream is active. **Leave this terminal running in the background.** (If the software happens to crash, press Control + C in its terminal to stop it, then run ./start_muse.sh again to restart it. Be sure to leave the other terminals open).
+    A visualization window from `muselsl` should appear, confirming the stream is active. **Leave this terminal running in the background.** (If the software happens to crash, press Control + C in this terminal to stop it, then run ./start_muse.sh again to restart it. Be sure to leave the other terminals open).
 
 3.  **Start the Epi or audio system:**
 
