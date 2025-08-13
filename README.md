@@ -79,7 +79,7 @@ The system is composed of several interconnected Python scripts that work togeth
 ---
 ## Usage
 
-Running an experiment involves two steps:
+Running an experiment involves three steps:
 
 1.  **Start the Muse LSL Stream:**
     Open a terminal, navigate to the project folder, and run the streaming script, to ensure the Muse 2 is connected.
@@ -99,7 +99,7 @@ action_handler.py
 
 ```
 
-2.  **Start the Software/Guide (Epi or disembodied guide):**
+3.  **Start the Software/Guide (Epi or disembodied guide):**
     Open a **third** terminal window and run the main script:
 
 ```bash
