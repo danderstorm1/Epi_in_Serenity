@@ -1,6 +1,6 @@
 # Epi in Serenity: A Neurofeedback Meditation System
 
-This repository contains the complete Python software system developed for the Master's thesis, *"Brainwaves, Breath and Robots: Rethinking Feedback in Meditation Training"* The software is designed to run a real-time neurofeedback experiment comparing different modalities of guidance for Focused Attention (FA) meditation.
+This repository contains the complete Python software system developed for the Master's thesis, *"Brainwaves, Breath and Robots: Rethinking Feedback in Meditation Training"*. The software is designed to run a real-time neurofeedback experiment comparing different modalities of guidance for Focused Attention (FA) meditation.
 
 The central inquiry of the thesis is to determine whether the physical presence of an embodied guide (a socially assistive robot) is more effective at helping a meditator regulate their brain state than a disembodied voice. 
 
